@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ScrOff</string>
+    <string name="description">
+        Please turn this On because this app needs the following permission in order to work properly.
+        \n
+        \n• Perform button cilck : To perform automated hardware button click.
+        \n
+        \n
+        - z1nc0r3 developer -
+    </string>
+</resources>
